@@ -1,4 +1,4 @@
-# Indy Improvement Intiatives (RFCs)
+# Indy Improvement Intiatives (IIIs)
 [Indy IIIs]: #indy-iiis
 
 Many changes, including bug fixes and documentation improvements can be
@@ -36,7 +36,7 @@ language is evolving in.
 
 You need to follow this process if you intend to make "substantial" changes to
 Indy node, Indy SDK interfaces, Indy Crypto, the Anoncreds protocol, 
-Agent communication protocols or the RFC process itself. What constitutes a
+Agent communication protocols or the III process itself. What constitutes a
 "substantial" change is evolving based on community norms and varies depending
 on what part of the system you are proposing to change, but may include the
 following.
