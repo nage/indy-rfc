@@ -267,5 +267,6 @@ This repository is currently licensed under the
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ### Credits
+[Credits]: #credits
 
 This document was derived from the Rust RFC process found at https://github.com/rust-lang/rfcs.  The Rust project and its developers are not responsible for the III process or its content.  If you have questions about Indy Improvement Initiatives or the Indy Improvement Initiative process please start discussions on the Hyperledger Indy mailing list or log an issue at https://jira.hyperledger.org/projects/INDY and add it to the "Process" Epic.
