@@ -65,7 +65,7 @@ the III process, it may be closed with a polite request to submit an III first.
 [Sub-team specific guidelines]: #sub-team-specific-guidelines
 
 For more details on when an III is required for the following areas, please see
-the Rust community's [sub-team] specific guidelines for:
+the Indy community's [sub-team] specific guidelines for:
 
   - [node changes](node_changes.md),
   - [sdk changes](sdk_changes.md),
